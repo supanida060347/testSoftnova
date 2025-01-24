@@ -24,7 +24,7 @@
               class="w-24 h-24 object-cover rounded-md"
             />
             <div>
-              <p class="text-xl font-bold">{{ item.title }}</p>
+              <p class="text-xl font-bold">{{ item.title }} </p>
               <p class="text-sm text-gray-600">Price: ฿{{ item.price }}</p>
             </div>
           </div>
